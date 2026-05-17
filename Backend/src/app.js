@@ -10,7 +10,8 @@ const app = express();
 
 const allowedOrigins = [
   process.env.ALLOWED_SITE,
-  "https://ai-resume-zeta-ten.vercel.app"
+  "https://ai-resume-zeta-ten.vercel.app",
+    "https://ai-resume-ekjrlamkz-faizals-projects-96c8bb70.vercel.app"
 ];
 
 const corsOptions = {
