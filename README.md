@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Builder
 
 AI Resume Builder is a sophisticated web application that leverages artificial intelligence to help users craft professional resumes. The application features an intuitive interface and robust backend services for secure data management.
@@ -156,3 +157,7 @@ Now, you can **choose** to set up the project **with or without Docker**.
 
 
 ---
+=======
+# ai_resume
+this is my ai-based resume builder
+>>>>>>> 3be946bdb948e7c3e2aefb51d2adfb4199fcd694
